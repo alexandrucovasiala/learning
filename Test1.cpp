@@ -260,3 +260,4 @@ void problema6(const char *input_file, const char *output_file)
 	putsthem.close();
 }
 
+//add a coment for no reason
