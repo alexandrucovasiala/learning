@@ -1,4 +1,5 @@
 #include "exercises.h"
+#include <math.h>
 bool isCharacter(char c)
 {
 	if(c<='z'&&c>='a'||c<='Z'&&c>='A')
